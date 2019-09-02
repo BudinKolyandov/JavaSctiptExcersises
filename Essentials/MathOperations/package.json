@@ -1,0 +1,9 @@
+{
+  "name": "math-operations",
+  "version": "0.0.0",
+  "description": "MathOperations",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
