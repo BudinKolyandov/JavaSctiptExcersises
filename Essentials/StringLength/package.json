@@ -1,0 +1,9 @@
+{
+  "name": "string-length",
+  "version": "0.0.0",
+  "description": "StringLength",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
